@@ -38,7 +38,7 @@ class QuizMaker:
     def readFile(self, filename):
         line_count = 1
         try:
-            with open(filename) as file_:
+            with open("Quiz Files/"+ filename) as file_:
                 for line in file_:
                     if line != "\n":
                         self.parseQuestion(line, line_count)
