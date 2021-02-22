@@ -1,0 +1,10 @@
+T/F, "For loops are better suited for ranges", t
+M, "Which of the follow is not a data type in python?", character, string, interger, float, A
+V, "Which loop is used with a range [while, for]?", for
+T/F, "While loops are better suited for iteration than for loops", f
+M, "How many different kind of loops are there in python?", 1, 2, 3, 4, b
+V, "Which loop is better for game logic[while, for]?", while
+T/F, "Both while and for loops can be used to iterate over the characters in a string", t
+M, "What is it called when you have a loop in a loop?", Double Loop, Loop of Loops, Nested Loop, There is no special name for that, c
+V, "What is the name for a sequence of characters in python?", string
+T/F, "While and for loop both use a conditional to stop", f
