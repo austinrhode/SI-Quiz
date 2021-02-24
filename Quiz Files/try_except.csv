@@ -1,0 +1,10 @@
+T/F,"You can only have one except for each try", f
+M,"What could you pass in to except to catch all errors?", AllError, Error, GeneralError, Nothing, D
+V,"What is the name of the error that gets raised when your type cast fails?", ValueError
+T/F,"All trys must have at least one except", t
+M,"An expect block is trigged ___", Once all the code in the try runs and an error occured at some point, Immediately after the first error occurs, Once all the code in the function finishes and there was an error at some point, At compile time, b
+V,"What is the name of error that gets raised when the use enters the incorrect file name", FileNotFoundError
+T/F,"The expect keyword can take in arguments", t
+M,"What is the keyword to generate an error?", Throw, Construct, Raise, Generate, c
+V,"What is the name for the error that gets raised when you try and divide by zero?", ZeroDivisionError
+T/F,"Try and except help to stop your program from crashing, so you should wrap them around as much code as possible", f

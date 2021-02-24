@@ -1,10 +1,10 @@
-"T/F", "Using the debugger is better than using print statements in all cases?", f
-M, "What is the error that occurs when you mess up the grammar of the language?", Runtime, Semmantic, Syntax, FileNotFound, c
-V, "Indexing of bounds is an example of what type of error?", runtime
-T/F, "There are no differences between running pytest VSCode vs using the command line", f
-M, ""How many different types of errors are there in python?", 1, 2, 3, 4, c
-V, "Dividing by zero is an example of what type of error?", runtime
-T/F, "Semmantic errors are considered the hardest to debug", t
-M, "What type of error would occur if you forgot to increment the counter in your while loop?", Runtime, Semmantic, Syntax, ArithmiticError, b
-V, "Debugging your code by printing things to the console is called ____ debugging?", print
+"T/F","Using the debugger is better than using print statements in all cases?", f
+M,"What is the error that occurs when you mess up the grammar of the language?", Runtime, Semmantic, Syntax, FileNotFound, c
+V,"Indexing of bounds is an example of what type of error?", runtime
+T/F,"There are no differences between running pytest VSCode vs using the command line", f
+M,"How many different types of errors are there in python?", 1, 2, 3, 4, c
+V,"Dividing by zero is an example of what type of error?", runtime
+T/F,"Semmantic errors are considered the hardest to debug", t
+M,"What type of error would occur if you forgot to increment the counter in your while loop?", Runtime, Semmantic, Syntax, ArithmiticError, b
+V,"Debugging your code by printing things to the console is called ____ debugging?", print
 T/F,"Using TDD helps us find errors faster, which makes debugging easier", t

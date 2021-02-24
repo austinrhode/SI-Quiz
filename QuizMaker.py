@@ -41,7 +41,7 @@ class QuizMaker:
             with open("Quiz Files/"+ filename) as csv_file:
                 file_ = csv.reader(csv_file, delimiter=',', quotechar='"')
                 for line in file_:
-                    if line != "\n":
+                    if line != []:
                         self.parseQuestion(line, line_count)
                         line_count += 1
         except FileNotFoundError:

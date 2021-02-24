@@ -3,6 +3,8 @@ from Question import *
 from TrueFalse import *
 from MultipleChoice import *
 from Vocab import *
+from random import shuffle, seed
+from datetime import datetime
 
 
 class Quiz:
@@ -34,6 +36,8 @@ class Quiz:
         input("Press Enter to Continue: ")
 
     def takeQuiz(self):
+        seed(datetime.now())
+        shuffle(self.questionList)
         for question in self.questionList:
             answer = question.ask()
             if question.score(answer):
