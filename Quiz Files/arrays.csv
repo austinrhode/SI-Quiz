@@ -1,0 +1,10 @@
+"T/F","Arrays are native to python", f
+M,"What is the time complexity of linear search?", O(1), O(N), O(log(N)), O(N**2), b
+V,"What is the name of the search where you look at every element in order?", Linear Search
+T/F,"Arrays are a fixed length data structure", t
+M,"What is the name of a type that will change when passed in as a parameter without needing to return and reassign the variable?", String, Primitive, Reference, There is no such type, c
+V,"What would you use to time how long a function took to execute?", pref_counter
+T/F,"Arrays cannot be mutated, i.e they are immutable", f
+T/F,"When it comes to time complexity, coefficients matter", f
+V,"What is the name of the python equivalent of an array", list
+T/F,"Arrays can hold any type of data", t
