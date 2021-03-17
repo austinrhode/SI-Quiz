@@ -1,0 +1,10 @@
+T/F,"Lists are native to python", t
+M,"What is the time complexity of removing from the end of list?", O(1), O(N), O(log(N)), O(N**2), a
+V,"What is the name of the data structure that is like an immutable list?", Tuple
+T/F,"Lists are a fixed length data structure", f
+M,"What is the time complexity of removing from the front of a list?", O(1), O(N), O(log(N)), O(N**2), b
+V,"What operator is used to create a new list out of an existing list (often a subset of the original list)?", slicing
+T/F,"Lists cannot be mutated, i.e they are immutable", f
+T/F,"Tuples are fixed length", t
+V,"Of the sequences we have learned about, which one is a sequence of numbers", range
+T/F,"Lists can be used in for each loops, but arrays cannot", t

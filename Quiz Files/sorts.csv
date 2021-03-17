@@ -1,0 +1,10 @@
+T/F,"The pivot for quick sort is always the first element in the list", t
+M,"What is the time complexity of merge sort?", O(N), O(log(N)), O(Nlog(N)), O(N^2), c
+V,"When you combine to sorting algorithms you create a ___ sort.", hybrid
+T/F,"Divide and conquer algorithms are the fastest for sorting", t
+M,"What is the time complexity of quick sort?", O(N), O(log(N)), O(Nlog(N)), O(N^2), c
+V,"Which sort the fastest on average?", quick sort
+M,"What is the time complexity of insertion sort?", O(N), O(log(N)), O(Nlog(N)), O(N^2), d
+T/F,"The main advantage of a hybrid sort is better time complexity", t
+V,"How many elements would be in a list when merge sort has finished spliting?", 1
+M,"What is the time complexity of bubble sort?", O(N), O(log(N)), O(Nlog(N)), O(N^2), d

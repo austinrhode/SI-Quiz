@@ -3,8 +3,7 @@ M,"What is it called when you exceed the recursion depth limit?", Blowing up the
 V,"Name of the condition that stops recursion?", Base Case
 T/F,"Recursion can be used as a substitute of iteration", t
 M,"What is the name of the error you would get if you forgot a base case?", Too Many Iterations Error, Maximum Recusion Depth Exceeded, Recurion Error, Depth Error, b
-V,"What does python use to keep track of what functions need to be called next, as well as the scoope of variables?", Stack Frame
+V,"What does python use to keep track of what functions need to be called next, as well as the scope of variables?", Stack Frame
 M,"How many units of work should one recursive call do?", 1, 2, 3, Any Number, a 
 T/F,"Your recursive call should always make progress to the base case", t
 V,"A function that calls itself if a ___ function", recursive
-T/F,"Recurion can't do anything that you couldn't do with iteration", f

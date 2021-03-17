@@ -1,0 +1,10 @@
+"T/F","Binary search is always faster than linear search", f
+M,"What is the time complexity of linear search?", O(1), O(N), O(log(N)), O(N^2), b
+V,"Which search has less overhead? [linear, binary]", linear
+T/F,"There is difference between time complexity and the time(in seconds) it takes for an algorith to run", t
+M,"What is the time complexity of binary search?", O(1), O(N), O(log(N)), O(N^2), c
+V,"Which search is faster in most instances? [linear, binary]", binary
+M,"When would you linear search over binary search?", When the array is very small, When the data isn't sorted, When the data can't be compared(for example you have integers strings and booleans), All of the above, d 
+T/F,"Linear search always checks every element in an array", f
+V,"Which search would you use if you knew nothing about the data? [linear, binary]", linear
+M,"What data types does binary search work on?", ints, Strings, int and floats, All data types, d 
