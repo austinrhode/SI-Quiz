@@ -1,0 +1,11 @@
+T/F,"Dictionaries need to have unique keys", t
+M,"What is the time complexity of finding an element in a dictionary?", O(1), O(log(N)), O(N), O(N^2), a
+V,"You can check if a dictionary contains a value using the ___ keyword.", in
+T/F,"Dictionaries are immutable", f
+M,"Dictionaries are a(n) ___ data structure.", Linear, Unique, Hashing, Ordered, c
+T/F,"Dictionaries have indexes", f
+M,"What is the time complexity of adding to a dictionary", O(1), O(log(N)), O(N), O(N^2), a
+T/F,"Dictionaries need to have unique values", f
+T/F,"Dictionaries can be iterated over using a for loop", t
+V,"What is the name of the collision handling method that moves the value to the next open space", open addressing
+V,"What is the name of the collision handling method that adds the value to a list", chaining

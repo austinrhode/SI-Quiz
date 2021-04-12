@@ -43,7 +43,7 @@ class QuizMaker:
                 for line in file_:
                     if line != []:
                         self.parseQuestion(line, line_count)
-                        line_count += 1
+                    line_count += 1
         except FileNotFoundError:
             print("Could not find that file. Double check the name and try again.")
         return self.quiz

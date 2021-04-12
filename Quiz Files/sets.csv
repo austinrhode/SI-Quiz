@@ -1,0 +1,10 @@
+T/F,"Sets can only contain unique elements", t
+M,"What is the time complexity of finding an element in a set?", O(1), O(log(N)), O(N), O(N^2), a
+V,"You can check if a set contains a value using the ___ keyword.", in
+T/F,"Sets are immutable", f
+M,"Sets are a(n) ___ data structure.", Linear, Unique, Hashing, Ordered, c
+T/F,"Sets have indexes", f
+M,"What is the time complexity of adding to a set", O(1), O(log(N)), O(N), O(N^2), a
+T/F,"Sets maintain order", f
+T/F,"Sets can be iterated over using a for loop", t
+M,"Which of the following is a good use case for a set?", Substitute of an array to increase time complexity, Store rows and columns in a Sudoku puzzles, Represent an x y pair (like coordinates), Stores rows in tic tac toe game, b

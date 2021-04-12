@@ -1,0 +1,10 @@
+T/F,"Classes are analogous to a blueprint", t
+M,"Which of the followin declares a constructor in python?", __construct__, __class__, __init__, __name__, c
+V,"What is used to make a field private?", __
+T/F,"Classes can only be used to store data, so they don't provide us with any functionality we couldn't get with a simply list", f
+M,"When doing noun verb analysis, classes are represented by:", all nouns, all verbs, certain nouns, certain verbs, c
+T/F,"Classes are good way to organize code", t
+V,"The idea that a class should capture all of it's state and methods is called?", encapsulation
+T/F,"Classes are said to be a way of defining our own data structures", t
+V,"What argument must be passed in to every method?", self
+M,"If i had a class that defined a Tree we would say that Birch would be a(n) ___ of that class?", Subclass, Instance, Method, Attribute, b
